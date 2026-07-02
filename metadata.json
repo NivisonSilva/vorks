@@ -1,0 +1,6 @@
+{
+  "name": "VORSK",
+  "description": "VORSK® - Performance que impressiona. Vista presença, não apenas roupas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
